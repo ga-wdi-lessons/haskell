@@ -1,31 +1,39 @@
 # Haskell
 
+## Syllabus
+
 http://learnyouahaskell.com/chapters
 
-## Introduction
+For each of the following chapters, write a small program demonstrating your
+knowledge and what you learned.
 
-## Starting Out
+[Create an Issue](https://github.com/ga-dc/haskell/issues/new) to disucss
+gaps in knowledge / questions.
 
-## Types and Typeclasses
+### Introduction (12/21)
 
-## Syntax in Functions
+### Starting Out (12/21)
 
-## Recursion
+### Types and Typeclasses (12/22)
 
-## Higher Order Functions
+### Syntax in Functions (12/22)
 
-## Modules
+### Recursion (12/23)
 
-## Custom Types and Typeclasses
+### Higher Order Functions (12/24)
 
-## Input/Output
+### Modules (12/25)
 
-## Functionally Solving Problems
+### Custom Types and Typeclasses (12/28)
 
-## Functors, Applicative Functors and Monoids
+### Input/Output (12/29)
 
-## A Fistful of Monads
+### Functionally Solving Problems (12/30)
 
-## For a few Monads More
+### Functors, Applicative Functors and Monoids (12/31)
 
-## Zippers
+### A Fistful of Monads (1/1)
+
+### For a few Monads More (1/2)
+
+### Zippers (1/3)
